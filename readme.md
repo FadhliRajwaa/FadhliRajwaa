@@ -44,9 +44,134 @@
 </div>
 
 <!-- ABOUT ME SECTION -->
-## 🚀 Tentang Saya
+<h2 align="center">🚀 Tentang Saya</h2>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Nama-Fadhli%20Rajwaa%20Rahmana-blue?style=for-the-badge" alt="Nama" />
+  <img src="https://img.shields.io/badge/Profesi-Fullstack%20Developer-red?style=for-the-badge" alt="Profesi" />
+  <img src="https://img.shields.io/badge/Lokasi-Indonesia-green?style=for-the-badge" alt="Lokasi" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=500&height=30&lines=JavaScript+%7C+TypeScript+%7C+React+Developer;Node.js+%7C+Express+%7C+WordPress+Developer;MongoDB+%7C+MySQL+%7C+PostgreSQL+Expert" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>💻 Bahasa Pemrograman & Teknologi</h3>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/php_(elephpant).png" alt="PHP" width="65" height="65" />
+      <br>PHP
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>🛠️ Spesialisasi</h3>
+</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <h4>🌐 Frontend</h4>
+      <ul>
+        <li>JavaScript</li>
+        <li>TypeScript</li>
+        <li>React</li>
+      </ul>
+    </td>
+    <td>
+      <h4>⚙️ Backend</h4>
+      <ul>
+        <li>Node.js</li>
+        <li>Python</li>
+        <li>Java</li>
+      </ul>
+    </td>
+    <td>
+      <h4>🗄️ Database</h4>
+      <ul>
+        <li>MongoDB</li>
+        <li>MySQL</li>
+        <li>PostgreSQL</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>🌟 Fakta Menarik</h3>
+  <p>"Bugs dan kopi adalah bagian dari kehidupan programmer"</p>
+  <p>Fokus saat ini: <b>Mengembangkan Aplikasi Web Full Stack</b></p>
+</div>
+
+<div align="center">
+  <details>
+    <summary><b>🔍 Lihat Lebih Banyak Tentang Saya</b></summary>
+    <br>
+    <p align="left">
+      Saya adalah seorang Fullstack Developer yang bersemangat dalam menciptakan solusi web yang inovatif dan efisien. 
+      Dengan keahlian dalam berbagai teknologi frontend dan backend, saya menikmati tantangan dalam membangun aplikasi 
+      yang tidak hanya berfungsi dengan baik tetapi juga memiliki pengalaman pengguna yang luar biasa.
+    </p>
+    <p align="left">
+      Selain coding, saya juga senang berbagi pengetahuan dan berkolaborasi dengan developer lain untuk menciptakan 
+      proyek-proyek yang bermanfaat.
+    </p>
+  </details>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🏆 Pencapaian</h3>
+  <table>
+    <tr>
+      <td>🥇 Fullstack Developer dengan pengalaman di berbagai proyek</td>
+      <td>🚀 Mengembangkan aplikasi web yang inovatif</td>
+      <td>📚 Terus belajar teknologi baru</td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote" width="400" />
+</div>
+
+<br>
 
 ```javascript
 const fadhli = {
@@ -148,7 +273,7 @@ const fadhli = {
       </td>
       <td align="center">
         <a href="https://www.php.net/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="80" height="80" alt="PHP"/>
+          <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/php_(elephpant).png" width="80" height="80" alt="PHP"/>
           <br />PHP
         </a>
       </td>
@@ -279,6 +404,7 @@ const fadhli = {
   <div>
     <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap,nodejs,express,php,wordpress,laravel,nextjs,java,kotlin,python,mongodb,mysql,postgresql,git,vscode,androidstudio,docker&perline=12" alt="Semua Tech Stack"/>
   </div>
+  <p><i>Catatan: Logo PHP di atas sudah diperbarui dengan logo elephpant yang lebih menarik di bagian detail teknologi.</i></p>
 </div>
 
 <!-- STATS SECTION -->
