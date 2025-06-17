@@ -404,7 +404,6 @@ const fadhli = {
   <div>
     <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap,nodejs,express,php,wordpress,laravel,nextjs,java,kotlin,python,mongodb,mysql,postgresql,git,vscode,androidstudio,docker&perline=12" alt="Semua Tech Stack"/>
   </div>
-  <p><i>Catatan: Logo PHP di atas sudah diperbarui dengan logo elephpant yang lebih menarik di bagian detail teknologi.</i></p>
 </div>
 
 <!-- STATS SECTION -->
