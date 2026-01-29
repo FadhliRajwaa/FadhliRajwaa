@@ -180,8 +180,12 @@
 </div>
 
 <!-- TROPHY SECTION -->
+<!-- NOTE: Github Profile Trophy service is currently experiencing issues. -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fadhlirajwaa&theme=radical&column=7&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  <!-- Alternative using different trophy service or commenting out temporarily -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+     <img src="https://github-profile-trophy.vercel.app/?username=fadhlirajwaa&theme=radical&column=7&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <!-- SNAKE ANIMATION -->
