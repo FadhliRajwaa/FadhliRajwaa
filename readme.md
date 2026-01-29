@@ -427,7 +427,7 @@ const fadhli = {
 
 <!-- TROPHY SECTION -->
 <div align="center">
-  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=FadhliRajwaa&theme=onedark)](https://github.com/FadhliRajwaa/github-profile-trophy)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FadhliRajwaa&theme=onedark" />
 </div>
 
 <!-- SNAKE ANIMATION -->
