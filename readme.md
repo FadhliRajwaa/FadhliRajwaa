@@ -40,33 +40,11 @@
   <a href="https://instagram.com/fadhli_rr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="150px" />
   </a>&nbsp;
-  <a href="https://github.com/fadhlirajwaa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" width="120px" />
-  </a>
-</div>
-
-<!-- STATUS BADGES -->
-<div align="center">
-  <br>
   <img src="https://komarev.com/ghpvc/?username=fadhlirajwaa&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-dodgerblue?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-Indonesia-success?style=for-the-badge" alt="Lives" />
-  <img src="https://img.shields.io/badge/Languages-Indonesian%20%26%20English-brightgreen?style=for-the-badge" alt="Languages" />
-</div>
-
-<!-- ANIMATED LINE -->
-<div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 <!-- ABOUT ME SECTION -->
 <h2 align="center">🚀 Tentang Saya</h2>
-
-<!-- ANIMATED SEPARATOR -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
@@ -218,11 +196,6 @@ const fadhli = {
 
 <!-- SKILLS SECTION -->
 ## 💻 Tech Stack
-
-<!-- ANIMATED SEPARATOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 <!-- Frontend -->
 <h3 align="center">Frontend</h3>
@@ -436,41 +409,25 @@ const fadhli = {
 <!-- STATS SECTION -->
 ## 📊 GitHub Stats
 
-<!-- ANIMATED SEPARATOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 <div align="center">
   <p>
     <a href="https://github.com/fadhlirajwaa">
-      <img src="https://github-readme-stats.vercel.app/api?username=fadhlirajwaa&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=8B949E&ring_color=F85D7F&show=reviews,prs_merged,prs_merged_percentage" width="48%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=fadhlirajwaa&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=C9D1D9&icon_color=58A6FF&text_color=8B949E&ring_color=58A6FF" width="48%" />
     </a>
     <a href="https://github.com/fadhlirajwaa">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadhlirajwaa&hide_border=true&theme=radical&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F" width="48%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadhlirajwaa&hide_border=true&theme=radical&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" />
     </a>
   </p>
   <p>
     <a href="https://github.com/fadhlirajwaa">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhlirajwaa&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=8B949E&langs_count=10" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhlirajwaa&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" />
     </a>
   </p>
-</div>
-
-<!-- ANIMATED SEPARATOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- TROPHY SECTION -->
-<h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=fadhlirajwaa&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=false&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</div>
-
-<!-- ANIMATED SEPARATOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=fadhlirajwaa&theme=onedark)](https://github.com/fadhlirajwaa/github-profile-trophy)" />
 </div>
 
 <!-- SNAKE ANIMATION -->
@@ -497,85 +454,17 @@ const fadhli = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming Quote" />
 </div>
 
-<br>
-
-<!-- CURRENTLY WORKING ON -->
-## 🔥 Sedang Dikerjakan
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🚀_Proyek_Utama-Aplikasi_Web_Fullstack-F85D7F?style=for-the-badge" alt="Main Project" />
-        <br><br>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/📚_Sedang_Belajar-Next.js_&_Cloud-F8D866?style=for-the-badge" alt="Learning" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<!-- RANDOM DEV MEME -->
-## 😂 Random Dev Meme
-
-<div align="center">
-  <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" width="512px"/>
-  <br>
-  <i>😆 Meme diambil secara acak setiap kali halaman dimuat!</i>
-</div>
-
-<br>
-
-<!-- ANIMATED SEPARATOR -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</div>
-
 ---
 
-<!-- CONNECT SECTION -->
-## 🤝 Mari Terhubung!
-
 <div align="center">
-  <a href="mailto:fadhlirajwaarahmana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fadhlirajwaarahmana%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <br><br>
-  <a href="https://linkedin.com/in/fadhli-rajwaa-rahmana">
-    <img src="https://img.shields.io/badge/LinkedIn-Fadhli%20Rajwaa%20Rahmana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <br><br>
-  <a href="https://instagram.com/fadhli_rr">
-    <img src="https://img.shields.io/badge/Instagram-@fadhli__rr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Terima+kasih+telah+mengunjungi+profil+saya!;Mari+terhubung+dan+berkolaborasi!;Open+for+opportunities+🚀&font=Fira%20Code&center=true&width=580&height=70&duration=4000&pause=1000&color=F85D7F&background=FFFFFF00&vCenter=true&size=24&repeat=true" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Terima+kasih+telah+mengunjungi+profil+saya!;Mari+terhubung+dan+berkolaborasi!&font=Fira%20Code&center=true&width=580&height=70&duration=4000&pause=1000&color=58A6FF&background=FFFFFF00&vCenter=true&size=24&repeat=true" alt="Typing SVG">
 
   <p>
     <a href="https://github.com/fadhlirajwaa">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/fadhlirajwaa?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&labelColor=black&color=F85D7F" />
-    </a>
-    <a href="https://github.com/fadhlirajwaa?tab=repositories">
-      <img alt="GitHub stars" src="https://img.shields.io/github/stars/fadhlirajwaa?style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=black&color=F8D866" />
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/fadhlirajwaa?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&labelColor=black&color=blue" />
     </a>
   </p>
   
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
